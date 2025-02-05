@@ -46,7 +46,6 @@ The Task Management Application is a simple command-line tool designed for effic
 
 ## Dependencies:
 - **Built-In Libraries**: Only built-in Python libraries are used to minimize external dependencies.
-- **External Libraries**: Any additional libraries, if required, are listed in the `requirements.txt` file.
 
 ## Error Handling:
 - Basic error handling is implemented for common scenarios:
