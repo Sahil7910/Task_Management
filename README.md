@@ -24,5 +24,6 @@ The Task Management Application is a simple command-line tool designed for effic
 2. Navigate to the project directory:
   ```bash
    cd Task_Management
+3. run file:
 
 
