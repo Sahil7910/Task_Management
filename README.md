@@ -22,9 +22,9 @@ The Task Management Application is a simple command-line tool designed for effic
    ```bash
    git clone https://github.com/Sahil7910/Task_Management.git
 2. Navigate to the project directory:
-   ```bash
+  ```bash
    cd Task_Management
-3.Run the application:
+3. Run the application:
   ```bash
   python main.py
 
