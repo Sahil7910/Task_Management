@@ -82,8 +82,8 @@ The Task Management Application is a simple command-line tool designed for effic
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-Email: sahil7910@example.com
-GitHub: Sahil7910
+- Email: sahil7910@example.com
+- GitHub: Sahil7910
 
 
 
