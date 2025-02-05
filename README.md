@@ -10,10 +10,8 @@ The Task Management Application is a simple command-line tool designed for effic
 - **View Tasks**:
   - View all tasks.
   - Filter tasks by status: pending or completed.
-- **View Pending Tasks**:
-  - Filter and display only pending tasks.
--	**View Completed Tasks**:
-  -	 Filter and display only completed tasks.  
+- **View Pending Tasks**:Filter and display only pending tasks.
+-	**View Completed Tasks**:Filter and display only completed tasks.  
 - **Update a Task**: Update the description or mark a task as completed.
 - **Delete a Task**: Remove tasks from the list.
 - **Persistent Storage**:
