@@ -11,8 +11,12 @@ The Task Management Application is a simple command-line tool designed for effic
   - View all tasks.
   - Filter tasks by status: pending or completed.
 - **View Pending Tasks**:Filter and display only pending tasks.
--	**View Completed Tasks**:Filter and display only completed tasks.  
-- **Update a Task**: Update the description or mark a task as completed.
+-	**View Completed Tasks**:Filter and display only completed tasks.
+-	**Sort Tasks**:sorting tasks by deadline or status. 
+- **Update a Task Description**: Update the description.
+- **Update a Task status**: Umark a task as completed.
+- **Search Task**:user can search for tasks containing a specific word
+- **Due Date Reminders**:Notify users about tasks that are due soon
 - **Delete a Task**: Remove tasks from the list.
 - **Persistent Storage**:
   - Store tasks in an SQLite database.
