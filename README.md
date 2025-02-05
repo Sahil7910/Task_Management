@@ -26,5 +26,5 @@ The Task Management Application is a simple command-line tool designed for effic
    cd Task_Management
 3. Run the application:
     ```bash
-  python main.py
+    python main.py
 
