@@ -13,7 +13,7 @@ The Task Management Application is a simple command-line tool designed for effic
 - **Update a Task**: Update the description or mark a task as completed.
 - **Delete a Task**: Remove tasks from the list.
 - **Persistent Storage**:
-  - Store tasks in an SQLite database or a JSON file for data persistence.
+  - Store tasks in an SQLite database.
 
 ---
 
