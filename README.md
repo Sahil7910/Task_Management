@@ -21,3 +21,6 @@ The Task Management Application is a simple command-line tool designed for effic
 1. Clone this repository:
    ```bash
    git clone https://github.com/Sahil7910/Task_Management.git
+2. Navigate to the project directory:
+   ```bash
+   cd Task_Management
