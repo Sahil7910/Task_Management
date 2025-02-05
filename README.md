@@ -66,11 +66,6 @@ The Task Management Application is a simple command-line tool designed for effic
 - It is assumed that users provide valid inputs for task creation and management.
 - The application is intended to run in a **local development environment**.
 
-## Future Considerations:
-- Possible future enhancements include:
-  - Integration with more advanced databases, such as **PostgreSQL**, for scalability.
-  - Adding **user authentication** and supporting **multi-user functionality**.
-  - Introducing features like **task prioritization**, **reminders**, and **recurring tasks**.
 ---
 
 ## How to Run
